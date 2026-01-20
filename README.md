@@ -20,7 +20,7 @@ I'm an 18y/o builder from Barcelona who loves getting involved in projects and s
 | Project | Your role & stack | Impact / Demo |
 |---------|-------------------|---------------|
 | **Build 1** | Co-founder • TypeScript • React • Stripe Connect • Figma • Supabase | <https://offerty.es/> — +30 partners < 1 month, published iOS & Android, Helps users discover local deals while giving merchants modern tooling and data insights. |
-| **Build 2** | Founder • Community infrastructure • ops | <https://x.com/footinncg?s=21> Scaled a sneaker reselling community to 4,000+ users and enabled over €50k in member profits. Acquired in 2023. |
+| **Build 2** | Founder • Community infrastructure • ops | <https://x.com/footinncg?s=21> <https://footinn.webflow.io/> Scaled a sneaker reselling community to 4,000+ users and enabled over €50k in member profits. Acquired in 2023. |
 
 ### Experience (TL;DR)
 
@@ -49,5 +49,6 @@ I love old movies and history.
 I like running, playing tennis, skiing and hiking.
 
 ### My vision
+
 
 I see myself in five years building impactful software in the U.S., at the heart of the tech scene. I hope the Exponential Fellowship will help me achieve this and give me the opportunity to go to SF to demonstrate what I am capable of.
